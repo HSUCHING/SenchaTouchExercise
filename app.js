@@ -34,6 +34,7 @@ Ext.application({
     launch: function() {
         // Destroy the #appLoadingIndicator element
 
+        Ext.fly('appLoadingIndicator').destroy();
         var company={
             name:'Shanghai SAP Labs',
             employer:[{
@@ -52,6 +53,21 @@ Ext.application({
         };
         var tpl=new Ext.XTemplate(
             '<p>Company:<br/></p>',
+            '<table border="1" class="psq">',
+                '<tr>',
+                    '<th>月份</th>',
+                    '<th>存款</th>',
+                '</tr>',
+                '<tr>',
+                    '<td>一月</td>',
+                    '<td>1000 元</td>',
+                '</tr>',
+                '<tr>',
+                    '<td>二月</td>',
+                    '<td>1500 元</td>',
+                '</tr>',
+            '</table>',
+
             '<tpl for=".">',
                 'name:{name}<br/>',
                 '<p>Employee:</p>',
