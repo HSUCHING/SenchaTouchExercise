@@ -36,7 +36,7 @@
             "path": "sdk/sencha-touch-debug.js"
         },
         {
-            "path": "app.js",
+            "path": "appChapterEightDataViewThree.js",
             "bundle": true,  /* Indicates that all class dependencies are concatenated into this file when build */
             "update": "delta"
         }

@@ -1,5 +1,5 @@
 Ext.application({
-    name: 'FinDashBoardFinal',
+    name: 'SenchaTouchExercise',
 
     requires: [
         'Ext.MessageBox',
@@ -67,37 +67,37 @@ Ext.application({
 //                {
 //                    flex:1,
 ////                    width:200,
-//                    html:'子组建1',
+//                    html:'子组件1',
 //                    style:'background-color:#5E99CC;'
 //                },{
 //                    flex:2,
 ////                    width:200,
-//                    html:'子组建2',
+//                    html:'子组件2',
 //                    style:'background-color:#759E60;'
 //                },{
 //                    width:200,
 ////                    height:200,
-//                    html:'子组建3',
+//                    html:'子组件3',
 //                    style:'background-color:#5E99CC;'
 //                }]
 
             //FitLayout
-//                layout:'fit',
-//                items:[{
-//                    style:'background-color:pink',
-//                    html:'示例文字1'
-//                },{
-//                    style:'background-color:green',
-//                    html:'示例文字2'
-//                }]
+                layout:'fit',
+                items:[{
+                    style:'background-color:pink',
+                    html:'示例文字1'
+                },{
+                    style:'background-color:green',
+                    html:'示例文字2'
+                }]
 
             //CardLayout
 
 
-            layout:{
-                type:'card',
-                animation:{type:'pop',direction:'right',duration:1000}
-            },
+//            layout:{
+//                type:'card',
+//                animation:{type:'pop',direction:'right',duration:1000}
+//            },
 //            items:[{
 //                id:'item1',
 //                style:'background-color:pink',
@@ -107,7 +107,7 @@ Ext.application({
 //                style:'background-color:green',
 //                html:'示例文字2'
 //            }]
-            items:[p1,p2]
+//            items:[p1,p2]
 
 
         });

@@ -1,5 +1,5 @@
 Ext.application({
-    name: 'FinDashBoardFinal',
+    name: 'SenchaTouchExercise',
 
     requires: [
         'Ext.MessageBox',
