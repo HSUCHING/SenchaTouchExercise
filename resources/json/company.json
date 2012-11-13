@@ -1,0 +1,16 @@
+{
+    "name":"Shanghai SAP Labs",
+    "employer":[{
+        "name":"Martin",
+        "age":26,
+        "hobby":["Apple","Football","Swimming","Sax"]
+    },{
+        "name":"Kaka",
+        "age":"29",
+        "hobby":["Football","Games","Travel"]
+    },{
+        "name":"Cristiano",
+        "age":"27",
+        "hobby":["Golf","Football"]
+    }]
+}

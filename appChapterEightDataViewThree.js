@@ -7,7 +7,10 @@ Ext.application({
         'Ext.XTemplate',
         'Ext.data.Store',
         'Ext.dataview.DataView',
-        'Ext.util.Sorter'
+        'Ext.util.Sorter',
+        'Ext.field.Select',
+        'Ext.Toolbar',
+        'Ext.Panel'
     ],
 
 
@@ -65,9 +68,55 @@ Ext.application({
         });
 
 //        store.sort('lastName','asc');
-        store.sorters.add(new Ext.util.Sorter());
-
+        store.sort({property:'lastName',direction:'ASC'});
         store.sort();
+
+        var tpl = new Ext.XTemplate(
+            '<div>{lastName}</div><div>{firstName}</div>'
+        );
+
+        function sortTable(){
+            sort=Ext.ComponentManager.get("sel_sort").getValue();
+            if(sort!=""){
+                store.sort({
+                    property:sort.split('-')[0],
+                    direction:sort.split('-')[1],
+                    transform:function(value){return getSpell(value,value);}
+                })
+            }
+        }
+
+        var toolbar=new Ext.Toolbar({
+           docked:'top',
+           items:[{
+                xtype:'selectfield',
+                id:'sel_sort',
+                name:'sort',
+                displayField:'text',
+                valueField:'value',
+                options:[{
+                    text:'选择排序方式',
+                    value:''
+                },{
+                    text:'按姓升序排列',
+                    value:'lastName-asc'
+                },{
+                    text:'按姓降序排列',
+                    value:'lastName-desc'
+                },{
+                    text:'按名升序排列',
+                    value:'firstName-asc'
+                },{
+                    text:'按名降序排列',
+                    value:'firstName-desc'
+                }],
+                listeners:{
+                    change:function(){
+                        sortTable();
+                    }
+                }
+            }]
+        });
 
         var panel=Ext.create('Ext.Panel',{
             docked:'top',
@@ -82,21 +131,28 @@ Ext.application({
                 }]
         });
 
-        var tpl = new Ext.XTemplate(
-            '<div>{lastName}</div><div>{firstName}</div>'
-        );
-
-        var count=0;
         var dataview=Ext.create('Ext.DataView',{
-            fullscreen:true,
+//            fullscreen:true,
+            scrollable:'both',
             store:store,
             baseCls:'user',
             selectedCls:'selecteditem',
-            items:[panel],
-            itemTpl:tpl
-        })
+            items:[toolbar,panel],
+            itemTpl:tpl,
+            listeners:{
+                refresh:function(dataview){
+                    console.log('refresh');
+                }
+            }
+        });
 
-        Ext.Viewport.add(dataview);
+
+        var mainPanel=Ext.create('Ext.Panel',{
+            layout:'fit',
+            items:[dataview]
+        });
+
+        Ext.Viewport.add(mainPanel);
 
     },
 

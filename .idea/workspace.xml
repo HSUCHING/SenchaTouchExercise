@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78b0a92d-8128-41ea-a979-26d32c15299c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.json" afterPath="$PROJECT_DIR$/app.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appChapterFiveDisabled.js" afterPath="$PROJECT_DIR$/appChapterFiveDisabled.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appChapterFiveautoValidation.js" afterPath="$PROJECT_DIR$/appChapterFiveautoValidation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appChapterFiveformPostValidation.js" afterPath="$PROJECT_DIR$/appChapterFiveformPostValidation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appChapterFourDatePickerSliderToggleHidden.js" afterPath="$PROJECT_DIR$/appChapterFourDatePickerSliderToggleHidden.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appChapterFourSelectfield.js" afterPath="$PROJECT_DIR$/appChapterFourSelectfield.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appChapterFourStoreProxyReader.js" afterPath="$PROJECT_DIR$/appChapterFourStoreProxyReader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appChapterFourcheckbox.js" afterPath="$PROJECT_DIR$/appChapterFourcheckbox.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appChapterFourfield.js" afterPath="$PROJECT_DIR$/appChapterFourfield.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appChapterFourformPanel.js" afterPath="$PROJECT_DIR$/appChapterFourformPanel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appChapterOne.js" afterPath="$PROJECT_DIR$/appChapterOne.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appChapterSevenXTemplatesimple.js" afterPath="$PROJECT_DIR$/appChapterSevenXTemplatesimple.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appChapterSixToolbar.js" afterPath="$PROJECT_DIR$/appChapterSixToolbar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appChapterThreeCarousel.js" afterPath="$PROJECT_DIR$/appChapterThreeCarousel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appChapterThreeImg.js" afterPath="$PROJECT_DIR$/appChapterThreeImg.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appChapterThreeLayout.js" afterPath="$PROJECT_DIR$/appChapterThreeLayout.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appChapterThreeNavigation.js" afterPath="$PROJECT_DIR$/appChapterThreeNavigation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appChapterThreeTabPanel.js" afterPath="$PROJECT_DIR$/appChapterThreeTabPanel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appChapterThreextype.js" afterPath="$PROJECT_DIR$/appChapterThreextype.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appChapterTwo.js" afterPath="$PROJECT_DIR$/appChapterTwo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/view/Main.js" afterPath="$PROJECT_DIR$/app/view/Main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="a362a3de-3027-4cdc-9d8c-de2d56f88968" name="Default" comment="" />
     <ignored path="SenchaTouchExercise.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,14 +18,67 @@
     <disable_hints />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="app.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="41" column="49" selection-start="1922" selection-end="1922" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appChapterEightDataViewThree.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/appChapterEightDataViewThree.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="144" column="17" selection-start="4102" selection-end="4102" vertical-scroll-proportion="0.91102123">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appChapterEightDataViewTwo.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appChapterEightDataViewTwo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="132" column="18" selection-start="3783" selection-end="3939" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1352708572797" expanded="false" signature="2852:2867" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/css/app.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11164" column="0" selection-start="520402" selection-end="520402" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app.json" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/appChapterEightDataViewThree.js" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="614" />
-    <option name="y" value="89" />
-    <option name="width" value="1022" />
-    <option name="height" value="726" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -77,6 +106,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -95,9 +125,76 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SenchaTouchExercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SenchaTouchExercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SenchaTouchExercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SenchaTouchExercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SenchaTouchExercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SenchaTouchExercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SenchaTouchExercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SenchaTouchExercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -105,24 +202,31 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <created>1352795930363</created>
-      <updated>1352795930363</updated>
+      <created>1352798290858</created>
+      <updated>1352798290858</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="614" y="89" width="1022" height="726" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24923703" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27411702" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -188,6 +292,54 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="49" selection-start="1922" selection-end="1922" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11164" column="0" selection-start="520402" selection-end="520402" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appChapterEightDataViewTwo2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="11" selection-start="783" selection-end="1030" vertical-scroll-proportion="-0.17795753">
+          <folding>
+            <marker date="1352706718878" expanded="false" signature="2093:2108" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="28" selection-start="1824" selection-end="1824" vertical-scroll-proportion="0.40292275">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appChapterEightDataViewTwo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="18" selection-start="3783" selection-end="3939" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1352708572797" expanded="false" signature="2852:2867" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appChapterEightDataViewThree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="144" column="17" selection-start="4102" selection-end="4102" vertical-scroll-proportion="0.91102123">
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
 
