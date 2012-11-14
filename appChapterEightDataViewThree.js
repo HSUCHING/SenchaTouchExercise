@@ -10,7 +10,8 @@ Ext.application({
         'Ext.util.Sorter',
         'Ext.field.Select',
         'Ext.Toolbar',
-        'Ext.Panel'
+        'Ext.Panel',
+        'Ext.field.Search'
     ],
 
 
@@ -86,9 +87,46 @@ Ext.application({
             }
         }
 
+
+        function searchTable(){
+            store.clearFilter();
+            var value=Ext.ComponentManager.get("search_lastname").getValue();
+            if(value!=""){
+                store.filter('lastName',value);
+            }
+            var value=Ext.ComponentManager.get("search_firstname").getValue();
+            if(value!=""){
+                store.filter('firstName',value);
+            }
+        }
+
         var toolbar=new Ext.Toolbar({
-           docked:'top',
-           items:[{
+            docked:'top',
+            height:160,
+            layout:{
+                type:'vbox'
+            },
+            items:[{
+                xtype:'searchfield',
+                id:'search_lastname',
+                name:'search_lastname',
+                placeHolder:'请输入检索用用户姓',
+                listeners:{
+                    change:function(){
+                        searchTable();
+                    }
+                }
+            },{
+                xtype:'searchfield',
+                id:'search_firstname',
+                name:'search_firstname',
+                placeHolder:'请输入检索用用户名',
+                listeners:{
+                    change:function(){
+                        searchTable();
+                    }
+                }
+            },{
                 xtype:'selectfield',
                 id:'sel_sort',
                 name:'sort',
@@ -138,6 +176,7 @@ Ext.application({
             baseCls:'user',
             selectedCls:'selecteditem',
             items:[toolbar,panel],
+            emptyText:'没有数据',
             itemTpl:tpl,
             listeners:{
                 refresh:function(dataview){
