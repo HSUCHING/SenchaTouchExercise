@@ -104,7 +104,8 @@ Ext.application({
             docked:'top',
             height:160,
             layout:{
-                type:'vbox'
+                type:'vbox',
+                align:'center'
             },
             items:[{
                 xtype:'searchfield',

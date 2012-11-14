@@ -23,36 +23,34 @@
       <file leaf-file-name="app.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="49" selection-start="1922" selection-end="1922" vertical-scroll-proportion="0.0">
+            <state line="29" column="50" selection-start="1368" selection-end="1368" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="appChapterEightDataViewThree.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/appChapterEightDataViewThree.js">
+      <file leaf-file-name="BookInfoReader.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/store/BookInfoReader.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="144" column="17" selection-start="4210" selection-end="4210" vertical-scroll-proportion="0.5561173">
+            <state line="27" column="10" selection-start="791" selection-end="791" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="appChapterEightDataViewTwo.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/appChapterEightDataViewTwo.js">
+      <file leaf-file-name="appChapterEightDataViewFour2.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appChapterEightDataViewFour2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="132" column="18" selection-start="3783" selection-end="3939" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1352708572797" expanded="false" signature="2852:2867" placeholder="..." />
-              </folding>
+            <state line="51" column="0" selection-start="1286" selection-end="1286" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/css/app.css">
+      <file leaf-file-name="bookInfo.json" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/json/bookInfo.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11164" column="0" selection-start="520402" selection-end="520402" vertical-scroll-proportion="0.0">
+            <state line="17" column="21" selection-start="624" selection-end="624" vertical-scroll-proportion="0.5060893">
               <folding />
             </state>
           </provider>
@@ -68,17 +66,25 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app.json" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/appChapterEightDataViewThree.js" />
+        <option value="$PROJECT_DIR$/resources/xml/bookInfo.xml" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/app/model/BookInfo.js" />
+        <option value="$PROJECT_DIR$/resources/css/app.css" />
+        <option value="$PROJECT_DIR$/resources/js/bookInfo.json" />
+        <option value="$PROJECT_DIR$/appChapterEightDataViewFour.js" />
+        <option value="$PROJECT_DIR$/app.json" />
+        <option value="$PROJECT_DIR$/app/store/BookInfoReader.js" />
+        <option value="$PROJECT_DIR$/appChapterEightDataViewFour2.js" />
+        <option value="$PROJECT_DIR$/resources/json/bookInfo.json" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1176" />
+    <option name="x" value="297" />
+    <option name="y" value="121" />
+    <option name="width" value="1932" />
+    <option name="height" value="1099" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -138,22 +144,8 @@
               <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="SenchaTouchExercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SenchaTouchExercise" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="xml" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -170,8 +162,22 @@
               <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="SenchaTouchExercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SenchaTouchExercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="json" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -193,6 +199,56 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SenchaTouchExercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SenchaTouchExercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SenchaTouchExercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SenchaTouchExercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SenchaTouchExercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SenchaTouchExercise" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -200,6 +256,16 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\i068959\Documents\GitHub\SenchaTouchExercise" />
+      <recent name="C:\Users\i068959\Documents\GitHub\SenchaTouchExercise\resources\js" />
+      <recent name="C:\Users\i068959\Documents\GitHub\SenchaTouchExercise\resources\xml" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\i068959\Documents\GitHub\SenchaTouchExercise\resources\json" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
@@ -221,16 +287,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
-    <editor active="false" />
+    <frame x="297" y="121" width="1932" height="1099" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27306274" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27363974" sideWeight="0.8292423" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17075774" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -295,72 +361,120 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app.json">
+    <entry file="file://$PROJECT_DIR$/appChapterThreeImg.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="49" selection-start="1922" selection-end="1922" vertical-scroll-proportion="0.0">
+        <state line="4" column="25" selection-start="93" selection-end="93" vertical-scroll-proportion="-0.3114257">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/appChapterEightDataViewThree.js">
+    <entry file="file://$PROJECT_DIR$/app/store/genreStore.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="144" column="17" selection-start="4210" selection-end="4210" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/appChapterEightDataViewTwo.js">
+    <entry file="file://$PROJECT_DIR$/appChapterFourStoreProxyReader.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="132" column="18" selection-start="3783" selection-end="3939" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1352708572797" expanded="false" signature="2852:2867" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/css/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11164" column="0" selection-start="520402" selection-end="520402" vertical-scroll-proportion="0.0">
+        <state line="92" column="85" selection-start="2427" selection-end="2504" vertical-scroll-proportion="0.44489384">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.json">
+    <entry file="file://$PROJECT_DIR$/app/model/genre.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="49" selection-start="1922" selection-end="1922" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/css/app.css">
+    <entry file="file://$PROJECT_DIR$/app/store/genreStoreProxyReader.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11164" column="0" selection-start="520402" selection-end="520402" vertical-scroll-proportion="0.0">
+        <state line="7" column="0" selection-start="160" selection-end="509" vertical-scroll-proportion="0.15571284">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/appChapterEightDataViewTwo2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="11" selection-start="783" selection-end="1030" vertical-scroll-proportion="-0.17795753" />
+        <state line="78" column="28" selection-start="2067" selection-end="2067" vertical-scroll-proportion="0.33367038">
+          <folding>
+            <marker date="1352706718878" expanded="true" signature="2093:2108" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/BookInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="29" selection-start="463" selection-end="463" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#161#0" expanded="false" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="28" selection-start="1824" selection-end="1824" vertical-scroll-proportion="0.40292275" />
+        <state line="15" column="0" selection-start="505" selection-end="505" vertical-scroll-proportion="-10.645162">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/appChapterEightDataViewTwo.js">
+    <entry file="file://$PROJECT_DIR$/resources/xml/bookInfo.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="132" column="18" selection-start="3783" selection-end="3939" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1352708572797" expanded="false" signature="2852:2867" placeholder="..." />
-          </folding>
+        <state line="14" column="20" selection-start="517" selection-end="528" vertical-scroll-proportion="0.32421052">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/appChapterEightDataViewThree.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="144" column="17" selection-start="4210" selection-end="4210" vertical-scroll-proportion="0.5561173">
+        <state line="67" column="13" selection-start="1881" selection-end="1881" vertical-scroll-proportion="-0.5970924">
+          <folding>
+            <element signature="e#2944#4588#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11166" column="24" selection-start="520454" selection-end="520454" vertical-scroll-proportion="0.12421053">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appChapterEightDataViewFour.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="29" selection-start="418" selection-end="418" vertical-scroll-proportion="0.5374046">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appChapterEightDataViewFour2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="0" selection-start="1286" selection-end="1286" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/BookInfoReader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="10" selection-start="791" selection-end="791" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="50" selection-start="1368" selection-end="1368" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/json/bookInfo.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="21" selection-start="624" selection-end="624" vertical-scroll-proportion="0.5060893">
           <folding />
         </state>
       </provider>
