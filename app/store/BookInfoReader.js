@@ -10,6 +10,7 @@ Ext.define('SenchaTouchExercise.store.BookInfoReader',{
     config:{
         model:'SenchaTouchExercise.model.BookInfo',
         autoLoad:true,
+        remoteSort:true,
         pageSize:2,
         proxy:{
             type:'ajax',

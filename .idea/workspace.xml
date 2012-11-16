@@ -32,25 +32,47 @@
       <file leaf-file-name="BookInfoReader.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/store/BookInfoReader.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="10" selection-start="791" selection-end="791" vertical-scroll-proportion="0.0">
+            <state line="29" column="19" selection-start="836" selection-end="836" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="appChapterEightDataViewFour2.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="appChapterEightDataViewThree.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appChapterEightDataViewThree.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="86" column="13" selection-start="2483" selection-end="2483" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#2944#4588#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appChapterEightDataViewTwo2.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/appChapterEightDataViewTwo2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="55" column="26" selection-start="1476" selection-end="1476" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1352706718878" expanded="false" signature="2093:2108" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appChapterEightDataViewFour2.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/appChapterEightDataViewFour2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="0" selection-start="1286" selection-end="1286" vertical-scroll-proportion="0.0">
+            <state line="59" column="17" selection-start="1496" selection-end="1496" vertical-scroll-proportion="0.45114595">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bookInfo.json" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="bookInfo.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/json/bookInfo.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="21" selection-start="624" selection-end="624" vertical-scroll-proportion="0.5060893">
+            <state line="17" column="21" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -74,17 +96,17 @@
         <option value="$PROJECT_DIR$/resources/js/bookInfo.json" />
         <option value="$PROJECT_DIR$/appChapterEightDataViewFour.js" />
         <option value="$PROJECT_DIR$/app.json" />
+        <option value="$PROJECT_DIR$/resources/json/bookInfo.json" />
         <option value="$PROJECT_DIR$/app/store/BookInfoReader.js" />
         <option value="$PROJECT_DIR$/appChapterEightDataViewFour2.js" />
-        <option value="$PROJECT_DIR$/resources/json/bookInfo.json" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="297" />
-    <option name="y" value="121" />
-    <option name="width" value="1932" />
-    <option name="height" value="1099" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -287,16 +309,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="297" y="121" width="1932" height="1099" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27363974" sideWeight="0.8292423" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14391144" sideWeight="0.8422091" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17075774" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15779093" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -396,15 +418,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/appChapterEightDataViewTwo2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="28" selection-start="2067" selection-end="2067" vertical-scroll-proportion="0.33367038">
-          <folding>
-            <marker date="1352706718878" expanded="true" signature="2093:2108" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/model/BookInfo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="29" selection-start="463" selection-end="463" vertical-scroll-proportion="0.0">
@@ -428,15 +441,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/appChapterEightDataViewThree.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="13" selection-start="1881" selection-end="1881" vertical-scroll-proportion="-0.5970924">
-          <folding>
-            <element signature="e#2944#4588#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11166" column="24" selection-start="520454" selection-end="520454" vertical-scroll-proportion="0.12421053">
@@ -451,20 +455,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/appChapterEightDataViewFour2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="0" selection-start="1286" selection-end="1286" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/store/BookInfoReader.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="10" selection-start="791" selection-end="791" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="50" selection-start="1368" selection-end="1368" vertical-scroll-proportion="0.0">
@@ -472,9 +462,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/appChapterEightDataViewThree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="13" selection-start="2483" selection-end="2483" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#2944#4588#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appChapterEightDataViewTwo2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="26" selection-start="1476" selection-end="1476" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1352706718878" expanded="false" signature="2093:2108" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/json/bookInfo.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="21" selection-start="624" selection-end="624" vertical-scroll-proportion="0.5060893">
+        <state line="17" column="21" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/store/BookInfoReader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="19" selection-start="836" selection-end="836" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appChapterEightDataViewFour2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="17" selection-start="1496" selection-end="1496" vertical-scroll-proportion="0.45114595">
           <folding />
         </state>
       </provider>

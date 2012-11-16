@@ -50,7 +50,70 @@ Ext.application({
 
         var bookstore=Ext.create('SenchaTouchExercise.store.BookInfoReader');
 
-        var toolbar =Ext.create('Ext.Toolbar',{
+        var toolbar1 =Ext.create('Ext.Toolbar',{
+            docked : 'top',
+            layout: {
+                type: 'hbox',
+                pack:'end'
+            },
+            items: [
+                {
+                    xtype: 'selectfield',
+                    usePicker:true,
+                    id:'sort',
+                    name:'sort',
+                    options:[{
+                        text:'选择排序方式',
+                        value:''
+                    },{
+                        text:'按书名升序排列',
+                        value:'book_name_asc'
+                    },{
+                        text:'按书名降序排列',
+                        value:'book_name_desc'
+                    },{
+                        text:'按作者名升序排列',
+                        value:'author_asc'
+                    },{
+                        text:'按作者名降序排列',
+                        value:'author_desc'
+                    }],
+                    listeners:{
+                        change:function(item,newValue,oldValue){
+                            switch(newValue)
+                            {
+                                case "book_name_asc":
+                                    bookstore.sort({
+                                        property :'book_name',
+                                        direction:'asc'
+                                    });
+                                    break;
+                                case "book_name_desc":
+                                    bookstore.sort({
+                                        property :'book_name',
+                                        direction:'desc'
+                                    });
+                                    break;
+                                case "author_asc":
+                                    bookstore.sort({
+                                        property :'author',
+                                        direction:'asc'
+                                    });
+                                    break;
+                                case "author_desc":
+                                    bookstore.sort({
+                                        property :'author',
+                                        direction:'desc'
+                                    });
+                                    break;
+                            }
+                            bookstore.load();
+                        }
+                    }
+                }]
+        });
+
+        var toolbar2 =Ext.create('Ext.Toolbar',{
             docked : 'bottom',
             width:'100%',
             layout:{
@@ -112,13 +175,16 @@ Ext.application({
 
         var dataview=Ext.create('Ext.DataView',{
             store:bookstore,
-            items:toolbar,
             emptyText:'没有数据',
             itemTpl:bookTemplate,
             baseCls:'Book'
         });
 
-        Ext.Viewport.add(dataview);
+        var panel=Ext.create('Ext.Panel',{
+            layout:'fit',
+            items:[toolbar1,dataview,toolbar2]
+        });
+        Ext.Viewport.add(panel);
         console.log(bookstore.isAutoLoading());
 
     },
