@@ -45,6 +45,7 @@
         }
     ],
 
+	
     /**
      * List of all CSS assets in the right inclusion order.
      * Each item is an object with the following format:
