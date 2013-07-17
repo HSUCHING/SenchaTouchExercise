@@ -1,4 +1,5 @@
 //<debug>
+console.log("test");
 Ext.Loader.setPath({
     'Ext': 'touch/src',
     'SenchaTouchExercise': 'app'
